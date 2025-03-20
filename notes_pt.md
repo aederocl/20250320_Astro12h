@@ -68,10 +68,8 @@
 - A IA deve ser vista como um **colaborador**, não um substituto.
 
 ## Referências e Recursos Adicionais
-- [ChatGPT](https://chatgpt.com)
-- [Linha do Tempo da IA](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence)
-- [Transformers na Astronomia](https://arxiv.org/abs/2308.10944)
-- [Google AI Co-Scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+
+[Referências e Recursos Adicionais](additional_resources.md)
 
 ---
 

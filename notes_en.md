@@ -65,10 +65,7 @@
 - AI should be seen as a **collaborator**, not a replacement.
 
 ## References & Additional Resources
-- [ChatGPT](https://chatgpt.com)
-- [Timeline of AI](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence)
-- [Transformers in Astronomy](https://arxiv.org/abs/2308.10944)
-- [Google AI Co-Scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+[References & Additional Resources](additional_resources.md)
 
 ---
 

@@ -14,12 +14,8 @@ The slides for the seminar can be accessed here:
 ## Notes in English
 This document contains my personal notes for the seminar, summarizing the key points discussed.
 
-[Add your English notes here]
-
 ## Notes in Portuguese
 Este documento contém minhas anotações pessoais para o seminário, resumindo os principais pontos discutidos.
-
-[Adicione suas anotações em português aqui]
 
 ## License
 Feel free to use and share these notes, but please give appropriate credit.
